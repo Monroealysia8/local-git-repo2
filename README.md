@@ -8,7 +8,7 @@
 
 ## Image Example
 
-
+![alt text](image-2.png)
 
 # Part 3- Connecting to GitHub and Pushing Changes
 
